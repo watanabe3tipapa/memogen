@@ -13,12 +13,10 @@
     ```bash
     echo "%23%20タイトル%0A%0A本文" | xclip -selection clipboard
     ```
-    ```bash
-    echo "%23%20タイトル%0A%0A本文" | xclip -selection clipboard
-    ```
-
-
+   
 ---
+
+```html
 <!-- README.md に貼るボタン：watanabe3tipapa/memogen 用 -->
 <div>
   <a href="https://github.com/watanabe3tipapa/memogen/new/main?filename=docs/NEW_PAGE.md&value=%23%20新しい%20メモ%0A%0Aここに内容を記入してください。" target="_blank" rel="noopener">
@@ -36,24 +34,13 @@
 -->
 
 
-
----
-
-<!-- README.md 用：擬似ボタン（見た目はボタン、実際はリンク） -->
-<div style="display:inline-block;">
-  <a href="https://github.com/watanabe3tipapa/memogen/new/main?filename=docs/NEW_PAGE.md&value=%23%20新しい%20メモ%0A%0Aここに内容を記入してください。" target="_blank" rel="noopener" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-weight:600;">
-    docs/ に新規作成（テンプレート）
+<div>
+  <a href="https://github.com/watanabe3tipapa/memogen/new/main?filename=docs/NEW_PAGE.md&value=%23%20新しい%20メモ%0A%0Aここに内容を記入してください。" target="_blank" rel="noopener">
+    <button style="padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; border:none;">
+      docs/ に新規作成（テンプレート）
+    </button>
   </a>
 </div>
-
-
+```
 
 ---
-
-
-<!-- README.md 用：擬似ボタン（見た目はボタン、実際はリンク） -->
-<div style="display:inline-block;">
-  <a href="https://github.com/watanabe3tipapa/memogen/new/main?filename=docs/NEW_PAGE.md&value=%23%20新しい%20メモ%0A%0Aここに内容を記入してください。" target="_blank" rel="noopener" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-weight:600;">
-    docs/ に新規作成（テンプレート）
-  </a>
-</div>
