@@ -3,7 +3,7 @@
 
 [NEW_PAGE.md](NEW_PAGE.md)
 
-[new_post.md](new_post.md)
+[new-post.md](new-post.md)
 
 
 ---
