@@ -1,7 +1,9 @@
 # MEMOGEN
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.0-green.svg)
 
-
+---
 
 ## 使い方
 
@@ -33,14 +35,12 @@
     例: "# タイトル\n\n本文" → "%23%20タイトル%0A%0A本文"
 -->
 
-
-<div>
-  <a href="https://github.com/watanabe3tipapa/memogen/new/main?filename=docs/NEW_PAGE.md&value=%23%20新しい%20メモ%0A%0Aここに内容を記入してください。" target="_blank" rel="noopener">
-    <button style="padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; border:none;">
-      docs/ に新規作成（テンプレート）
-    </button>
-  </a>
-</div>
 ```
+
+---
+
+## LICENSE
+
+MIT License
 
 ---
